@@ -6,5 +6,6 @@ public class Hello_mars {
 	{
 		System.out.println("hello_mars");
 		System.out.println("hello from earth");
+		System.out.println("bye");
 	}
 }
